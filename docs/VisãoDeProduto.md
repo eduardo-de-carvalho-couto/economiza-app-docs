@@ -3,7 +3,7 @@
 | **Nome do Projeto** | Economiza - Sistema de Gerenciamento Financeiro Pessoal |
 | :--- | :--- |
 | **Versão** | 1.0 |
-| **Data** | 28 de junho de 2025 |
+| **Data** | 23 de junho de 2025 |
 | **Status** | Proposta |
 
 ---

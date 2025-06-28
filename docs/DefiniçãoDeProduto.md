@@ -3,7 +3,7 @@
 | **Nome do Projeto** | Economiza - Sistema de Gerenciamento Financeiro Pessoal |
 | :--- | :--- |
 | **Versão** | 1.0 |
-| **Data** | 27 de junho de 2025 |
+| **Data** | 23 de junho de 2025 |
 | **Equipe** | Bruna Raquel, Eduardo Couto, João Victor Paiva, Ryan, Vandré Cortês, Zenilton Filho |
 
 ### 1. Visão Geral (Resumo Executivo)
