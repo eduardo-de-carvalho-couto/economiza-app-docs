@@ -1,7 +1,7 @@
 # Economiza - Sistema de Gerenciamento Financeiro Pessoal
 
 ![Badge](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
-![Badge](https://img.shields.io/badge/linguagem-n%2Fa-lightgrey)
+![Badge](https://img.shields.io/badge/Laravel-2e2e2e?logo=laravel)
 ![Badge](https://img.shields.io/badge/versão-1.0-blue)
 
 ## 📝 Sobre o Projeto
@@ -71,3 +71,11 @@ O saldo geral é calculado dinamicamente com a seguinte fórmula, refletindo a s
 $$Saldo\ Total = (Total\ de\ Fontes\ de\ Renda + Transações\ de\ Entrada) - (Total\ de\ Gastos\ Fixos + Total\ de\ Parcelamentos\ a\ Pagar\ no\ Mês + Metas\ a\ Pagar\ no\ Mês)$$
 
 As **transações de saída** são utilizadas para registrar pagamentos de gastos fixos, parcelas ou aportes em metas financeiras, mantendo o sistema sempre sincronizado.
+
+---
+
+## 🚀 Acesso ao Projeto
+
+Você pode acessar o repositório completo do projeto através do seguinte link:
+
+➡️ **[Repositório do Projeto no GitHub](https://github.com/eduardo-de-carvalho-couto/eng-software)**
