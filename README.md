@@ -78,5 +78,5 @@ As **transações de saída** são utilizadas para registrar pagamentos de gasto
 
 Você pode acessar o repositório completo do projeto através do seguinte link:
 
-➡️ **[Repositório do Projeto no GitHub](https://github.com/eduardo-de-carvalho-couto/eng-software)**
+➡️ **[Repositório do Projeto no GitHub](https://github.com/eduardo-de-carvalho-couto/eng-software)**<br>
 ➡️ **[Link do projeto](https://eduardoambiente.xyz/admin/login)**
